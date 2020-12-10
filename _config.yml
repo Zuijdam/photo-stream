@@ -22,12 +22,11 @@ title: Bruiloft Merel en Erik
 email: erik@netninja.nl
 author:
   name: -
-  email:  #optional
+  email:
   website: 
 description: >- # this means to ignore newlines until "baseurl:"
-  @maxvoltar's minimalistic, self-hosted photo stream.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://merelgaattrouwenmet.erikvanzuijdam.nl" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bruiloft" # the subpath of your site, e.g. /blog
+url: "https://www.erikvanzuijdam.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
 instagram_username: 
